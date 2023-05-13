@@ -3,6 +3,7 @@
    <application
         android:label="rick_and_morty_portfolio_app"
         android:name="${applicationName}"
+        android:usesCleartextTraffic="true"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943661278101",
+    "project_id": "rickandmortyportfolioapp",
+    "storage_bucket": "rickandmortyportfolioapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943661278101:android:2f43553748862652b80c9c",
+        "android_client_info": {
+          "package_name": "com.espijuan.portfolio.rick_and_morty_portfolio_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943661278101-adrca0vvpcadousabnrm1t4j5nocovak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Foq2-7ULhr7R89uu6b9vRWD1l2MY5_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943661278101-adrca0vvpcadousabnrm1t4j5nocovak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
